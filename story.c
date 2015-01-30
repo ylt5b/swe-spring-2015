@@ -12,6 +12,7 @@ int main( void )
 
   // Add your sentence.
   // Don't forget to update the header file.
+ // test
   bmwr84();
   printf(" ");
   //yangSentence1(); // source not available
