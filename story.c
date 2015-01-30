@@ -205,6 +205,8 @@ edwzpdsentence2();
 	sts44b_s1();
 	sts44b_s2();
 	twn346_1();
+	wldzc_sentence1();
+	wldzc_sentence2();
 	amd2b7_sentence3();
 	amd2b7_sentence4();
 	rlc5m8_sentence1();
