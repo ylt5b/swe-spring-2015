@@ -123,3 +123,5 @@ void scg558sentence1();
 void scg558sentence2();
 int mhc34_s1();
 int mhc34_s2();
+int ddbmf();
+int ddbmf_next();
