@@ -8,6 +8,6 @@ int twn346_1()
 
 int twn346_2()
 {
-    printf("The wizard sighed. \"Dammit Alex.\" he muttered wearily.\n");
+    printf("The wizard sighed. \"Dammit Tyler.\" he muttered wearily.\n");
 	return 1;
 }
