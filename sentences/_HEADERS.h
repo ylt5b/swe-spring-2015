@@ -99,6 +99,8 @@ void bgnqp4_s1();
 void bgnqp4_s2();
 int skhhdc_sent1();
 int skhhdc_sent2();
+int yangSentence1();
+int yangSentence2();
 //int rcsc77First();	//missing file
 //int rcsc77Second();
 

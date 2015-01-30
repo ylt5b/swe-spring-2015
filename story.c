@@ -16,9 +16,11 @@ int main( void )
   bmwr84();
   printf(" ");
   //yangSentence1(); // source not available
+  yangSentence1();
   darrensSentence1();
   iphvg5_sentence2();
   //yangSentence2(); // source not available
+  yangSentence2();
   lmwv2c_first();
   vlb5b();
   bmwr84_second();
