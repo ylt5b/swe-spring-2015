@@ -216,3 +216,5 @@ rmixv8.o: sentences/rmixv8.c
 	$(CC) -c $<
 ddbmf.o: sentences/ddbmf.c
 	$(CC) -c $<
+wldzc.o: sentences/wldzc.c
+	$(CC) -c $<
