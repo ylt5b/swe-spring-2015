@@ -213,6 +213,10 @@ edwzpdsentence2();
 	rlc5m8_sentence1();
     ddbmf();
     ddbmf_next();
+	
+	int dmz6fd_sentence1();
+	int dmz6fd_sentence2();
+
 
 //	mhc34_s1();
 //	mhc34_s2();
