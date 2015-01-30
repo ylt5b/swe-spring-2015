@@ -117,5 +117,7 @@ int mjir4d_sentence1();
 int mjir4d_sentence2();
 void cflzr3_1();
 void cflzr3_2();
+int edwzpdsentence1();
+int edwzpdsentence2();
 void scg558sentence1();
 void scg558sentence2();

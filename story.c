@@ -52,6 +52,7 @@ int main( void )
     skhhdc_sent2();
     bgnqp4_s1();
     amd2b7_sentence1();
+
     pld9bc_2();
     amd2b7_sentence2();
      pld9bc_1();
@@ -168,6 +169,9 @@ int main( void )
 	xcqrf_next();
 	djb8tc_2();
 	bgnqp4_s2();
+        wjbz82_first(); 
+        edwzpdsentence1();
+edwzpdsentence2(); 
         wjbz82_first();
 //	madelynsSentence1();
 //	madelynsSentence2();
