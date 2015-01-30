@@ -132,6 +132,13 @@ int ddbmf();
 int ddbmf_next();
 //int mhc34_s1();
 //int mhc34_s2();
+<<<<<<< HEAD
+int rmixv8_first();
+int rmixv8_second();
+int dmz6fd_sentence1();
+int dmz6fd_sentence2();
+=======
 //int rmixv8_first();
 //int rmixv8_second();
+>>>>>>> 0295f483c96c7fb23deaff4b72f92fd118303ecd
 
