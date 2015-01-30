@@ -7,14 +7,17 @@ int main( void )
 {
   printf("\n\n");
   bensSentence1();
+
   printf("\n\n");
 
   // Add your sentence.
   // Don't forget to update the header file.
   bmwr84();
   printf(" ");
+  yangSentence1();
   darrensSentence1();
   iphvg5_sentence2();
+  yangSentence2();
   lmwv2c_first();
   vlb5b();
   bmwr84_second();
@@ -26,7 +29,7 @@ int main( void )
   bar5z6Sentence1();
   jpvc4_Sentence2();
   amd2b7_sentence1();
-  mjir4d_sentence1(); 
+  mjir4d_sentence1();
   pld9bc_2();
   amd2b7_sentence2();
   pld9bc_1();
@@ -94,7 +97,7 @@ int main( void )
 	jebd4f_Sentence1();
 	devinsSentence2();
 	kllxvd();
-	mjir4d_sentence2(); 
+	mjir4d_sentence2();
 	kllxvd2();
 	racn88_s2();
 	bar5z6Sentence2();
@@ -145,15 +148,17 @@ int main( void )
     ldbnr4_sentence1();
     ldbnr4_sentence2();
     xltz6_1();
-    xltz6_2(); 
+    xltz6_2();
 	aap455_Sentence1();
 	aap455_Sentence2();
+	rlc5m8_sentence2();
    drby96firstsentence();
    kpm8v5sent2();
 	baotm4_sentence1();
 	baotm4_sentence2();
 	apcvzb_second();
 	ps793_sentence1();
+	twn346_2();
 	ps793_sentence2();
 	rwg58();
 	rwg58_next();
@@ -161,37 +166,54 @@ int main( void )
 	masyv6SecondSentence();
 	xcqrf();
 	xcqrf_next();
-	djb8tc_2(); 
+	djb8tc_2();
 	bgnqp4_s2();
-        wjbz82_first();  	
+        wjbz82_first();
 //	madelynsSentence1();
 //	madelynsSentence2();
-  wjbz82_second(); 
+  wjbz82_second();
   edw8n8_SENTENCE2();
   //tehww4_s1();
   //tehww4_s2();
       printf("\n\n");
+	scg558sentence1();
+	scg558sentence2();
 	wjbz82_first();
 	madelynsSentence1();
 	madelynsSentence2();
 	edw8n8_SENTENCE2();
 	wjbz82_second();
-	vlb5b_second(); 
+	vlb5b_second();
 
 	cflzr3_1();
 	cflzr3_2();
 //	bjt2p3_print();
-//	bjt2p3_next();	
+<<<<<<< HEAD
+//	bjt2p3_next();
 
 	bjt2p3_print();
-	bjt2p3_next();	
+	bjt2p3_next();
 
 //    ifh2k6_1();	//file missing
 //    ifh2k6_2();
 
-    
+	sts44b_s1();
+	sts44b_s2();
+	twn346_1();
+	amd2b7_sentence3();
+	amd2b7_sentence4();
+	rlc5m8_sentence1();
+=======
+//	bjt2p3_next();	
+   // ifh2k6_1();
+   // ifh2k6_2();
+>>>>>>> ylt5b
+
     // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
 }
+
+
+

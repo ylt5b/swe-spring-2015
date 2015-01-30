@@ -6,6 +6,19 @@ void bjt2p3_print(void);
 void bjt2p3_next(void);
 
 // DECLARE YOUR symbols here, implement them in a standalone C file
+<<<<<<< HEAD
+void sts44b_s1();
+void sts44b_s2();
+int rlc5m8_sentence1();
+int rlc5m8_sentence2();
+int twn346_1();
+int twn346_2();
+int amd2b7_sentence3();
+int amd2b7_sentence4();
+=======
+int yangSentence1();
+int yangSentence2();
+>>>>>>> ylt5b
 int apcvzb_first();
 int apcvzb_second();
 int bmwr84();
@@ -29,8 +42,8 @@ int tnrn9b1();
 int tnrn9b2();
 int jmlmdf();
 int jmlmdfnext();
-void wjbz82_first(); 
-void wjbz82_second(); 
+void wjbz82_first();
+void wjbz82_second();
 int jebd4f_Sentence1();
 int jebd4f_Sentence2();
 int bar5z6Sentence1();
@@ -107,3 +120,5 @@ int mjir4d_sentence1();
 int mjir4d_sentence2();
 void cflzr3_1();
 void cflzr3_2();
+void scg558sentence1();
+void scg558sentence2();

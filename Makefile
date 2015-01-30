@@ -21,6 +21,7 @@ CC= gcc
 # -----------------------------------------------
 # CLEAN definition - git rid of compiled stuff
 CLEAN= rm -rf *.o story
+CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
 TEST= (./story > the_story.txt) ; cat the_story.txt
@@ -44,14 +45,25 @@ test:
 clean:
 	$(CLEAN)
 
-
+cleanwin:
+	$(CLEANWIN)
 # -----------------------------------------------
 # Now we bring in our dependencies.
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o dpvx8.o aap455.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o drby96.o vlb5b.o mjir4d.o bjt2p3.o cflzr3.o
+<<<<<<< HEAD
+=======
+#<<<<<<< HEAD
+#story: story.o wjbz82.o dpvx8.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o
+#=======
+story: story.o ylt5b.o dpvx8.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o #bjt2p3.o
+#>>>>>> dse2pd
+	$(CC) -o story $^
+>>>>>>> ylt5b
+
+story: story.o dpvx8.o aap455.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o rlc5m8.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o drby96.o vlb5b.o mjir4d.o bjt2p3.o cflzr3.o sts44b.o scg558.o twn346.o
 
 	$(CC) -o story $^
 #removed rcsc77.o and ifh2k6.o; .c files aren't present.
@@ -64,6 +76,8 @@ story.o: story.c
 	$(CC) -c $^
 
 # -----------------------------------------------
+ylt5b.o: sentences/ylt5b.c
+	$(CC) -c $<
 mcs526.o: sentences/mcs526.c
 	$(CC) -c $<
 dpvx8.o: sentences/dpvx8.c
@@ -108,6 +122,8 @@ kpm8v5.o: sentences/kpm8v5.c
 	$(CC) -c $<	
 pld9bc.o: sentences/pld9bc.c
 	$(CC) -c $<
+rlc5m8.o: sentences/rlc5m8.c
+	$(CC) -c $<
 cmm9r2.o: sentences/cmm9r2.c
 	$(CC) -c $<	
 blhtkd.o: sentences/blhtkd.c
@@ -136,7 +152,7 @@ ahpb75.o: sentences/ahpb75.c
 	$(CC) -c $<
 cjbq4f.o: sentences/cjbq4f.c
 	$(CC) -c $<
-ps793.o: sentences/ps793.c
+ps793.o: sentences/ps793.c                                                 
 	$(CC) -c $<
 rwg58.o: sentences/rwg58.c
 	$(CC) -c $<
@@ -150,7 +166,14 @@ bgnqp4.o: sentences/bgnqp4.c
 	$(CC) -c $<
 masyv6.o: sentences/masyv6.c
 	$(CC) -c $<
+<<<<<<< HEAD
 #ifh2k6.o: sentences/ifh2k6.c	//missing file
+=======
+#ifh2k6.o: sentences/ifh2k6.c
+#	$(CC) -c $<
+#<<<<<<< HEAD
+#rcsc77.o: sentences/rcsc77.c
+>>>>>>> ylt5b
 #	$(CC) -c $<
 #rcsc77.o: sentences/rcsc77.c	//missing file
 #	$(CC) -c $<					//missing file
@@ -161,4 +184,10 @@ vlb5b.o: sentences/vlb5b.c
 mjir4d.o: sentences/mjir4d.c
 	$(CC) -c $<
 cflzr3.o: sentences/cflzr3.c
+	$(CC) -c $<
+sts44b.o: sentences/sts44b.c
+	$(CC) -c $<
+scg558.o: sentences/scg558.c
+	$(CC) -c $<
+twn346.o: sentences/twn346.c
 	$(CC) -c $<
