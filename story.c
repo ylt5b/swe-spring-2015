@@ -216,8 +216,8 @@ edwzpdsentence2();
     ddbmf();
     ddbmf_next();
 	
-	int dmz6fd_sentence1();
-	int dmz6fd_sentence2();
+	dmz6fd_sentence1();
+	dmz6fd_sentence2();
 
 
 //	mhc34_s1();
