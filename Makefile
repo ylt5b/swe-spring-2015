@@ -185,3 +185,5 @@ tehww4.o: sentences/tehww4.c
 	$(CC) -c $<
 mhc34.o: sentences/mhc34.c
 	$(CC) -c $<
+wldzc.o: sentences/wldzc.c
+	$(CC) -c $<
