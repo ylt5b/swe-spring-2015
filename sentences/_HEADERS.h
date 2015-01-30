@@ -6,7 +6,6 @@ void bjt2p3_print(void);
 void bjt2p3_next(void);
 
 // DECLARE YOUR symbols here, implement them in a standalone C file
-<<<<<<< HEAD
 void sts44b_s1();
 void sts44b_s2();
 int rlc5m8_sentence1();
@@ -15,10 +14,8 @@ int twn346_1();
 int twn346_2();
 int amd2b7_sentence3();
 int amd2b7_sentence4();
-=======
 int yangSentence1();
 int yangSentence2();
->>>>>>> ylt5b
 int apcvzb_first();
 int apcvzb_second();
 int bmwr84();
@@ -102,6 +99,12 @@ int skhhdc_sent1();
 int skhhdc_sent2();
 //int rcsc77First();	//missing file
 //int rcsc77Second();
+<<<<<<< HEAD
+=======
+
+int makgkf_Sen1();
+int makgkf_Sen2();
+>>>>>>> makgkf
 int cmm9r2_sentence1();
 int cmm9r2_sentence2();
 int masyv6FirstSentence();
@@ -120,5 +123,16 @@ int mjir4d_sentence1();
 int mjir4d_sentence2();
 void cflzr3_1();
 void cflzr3_2();
+int edwzpdsentence1();
+int edwzpdsentence2();
 void scg558sentence1();
 void scg558sentence2();
+//int mhc34_s1();
+//int mhc34_s2();
+int ddbmf();
+int ddbmf_next();
+//int mhc34_s1();
+//int mhc34_s2();
+int rmixv8_first();
+int rmixv8_second();
+

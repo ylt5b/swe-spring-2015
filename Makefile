@@ -54,19 +54,38 @@ cleanwin:
 # -----------------------------------------------
 
 <<<<<<< HEAD
+#story: story.o ylt5b.o dpvx8.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o #bjt2p3.o ddbmf.o
 =======
-#<<<<<<< HEAD
-#story: story.o wjbz82.o dpvx8.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o
-#=======
-story: story.o ylt5b.o dpvx8.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o #bjt2p3.o
-#>>>>>> dse2pd
+<<<<<<< HEAD
+#story: story.o ylt5b.o dpvx8.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o #bjt2p3.o
+>>>>>>> 076991997d319df10dbe6d5c74cb895aa0a179dc
+#	$(CC) -o story $^
+=======
+<<<<<<< HEAD
+story: story.o wjbz82.o dpvx8.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o 
+dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o 
+jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o 
+ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o 
+ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o makgkf.o 
+=======
+story: story.o dpvx8.o ska6f8.o wjbz82.o bpbkt7.o apcvzb.o cmm9r2.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o
+>>>>>>> dse2pd
 	$(CC) -o story $^
+<<<<<<< HEAD
 #>>>>>>> ylt5b
 
 story: story.o dpvx8.o aap455.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o rlc5m8.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o drby96.o vlb5b.o mjir4d.o bjt2p3.o cflzr3.o sts44b.o scg558.o twn346.o
+=======
+>>>>>>> makgkf
+>>>>>>> 8496152597ea2c0c0e325d98a249e3b28aa173ae
 
+<<<<<<< HEAD
+story: story.o dpvx8.o aap455.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o rlc5m8.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o drby96.o vlb5b.o mjir4d.o bjt2p3.o cflzr3.o sts44b.o scg558.o twn346.o edwzpd.o tehww4.o ddbmf.o
+=======
+story: story.o dpvx8.o aap455.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o rlc5m8.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o drby96.o vlb5b.o mjir4d.o bjt2p3.o cflzr3.o sts44b.o scg558.o twn346.o edwzpd.o tehww4.o rmixv8.o 
+>>>>>>> 076991997d319df10dbe6d5c74cb895aa0a179dc
 	$(CC) -o story $^
-#removed rcsc77.o and ifh2k6.o; .c files aren't present.
+#removed rcsc77.o mhc34.o and ifh2k6.o; .c files aren't present.
 	
 #pawprint.o -  where is your .c derived object file - where is your file
 
@@ -167,16 +186,22 @@ bgnqp4.o: sentences/bgnqp4.c
 masyv6.o: sentences/masyv6.c
 	$(CC) -c $<
 <<<<<<< HEAD
+
 #ifh2k6.o: sentences/ifh2k6.c	//missing file
 =======
-#ifh2k6.o: sentences/ifh2k6.c
-#	$(CC) -c $<
-#<<<<<<< HEAD
+makgkf.0: sentences/makgkf.c
+	$(CC) -c $<
+<<<<<<< HEAD
+>>>>>>> makgkf
 #rcsc77.o: sentences/rcsc77.c
+<<<<<<< HEAD
 #>>>>>>> ylt5b
+=======
+>>>>>>> 8496152597ea2c0c0e325d98a249e3b28aa173ae
 #	$(CC) -c $<
 #rcsc77.o: sentences/rcsc77.c	//missing file
 #	$(CC) -c $<					//missing file
+
 drby96.o: sentences/drby96.c
 	$(CC) -c $<
 vlb5b.o: sentences/vlb5b.c
@@ -185,9 +210,19 @@ mjir4d.o: sentences/mjir4d.c
 	$(CC) -c $<
 cflzr3.o: sentences/cflzr3.c
 	$(CC) -c $<
+edwzpd.o: sentences/edwzpd.c
+	$(CC) -c $<
 sts44b.o: sentences/sts44b.c
 	$(CC) -c $<
 scg558.o: sentences/scg558.c
 	$(CC) -c $<
 twn346.o: sentences/twn346.c
+	$(CC) -c $<
+tehww4.o: sentences/tehww4.c
+	$(CC) -c $<
+#mhc34.o: sentences/mhc34.c //not working
+#	$(CC) -c $<
+rmixv8.o: sentences/rmixv8.c
+	$(CC) -c $<
+ddbmf.o: sentences/ddbmf.c
 	$(CC) -c $<

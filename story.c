@@ -14,10 +14,10 @@ int main( void )
   // Don't forget to update the header file.
   bmwr84();
   printf(" ");
-  yangSentence1();
+  //yangSentence1(); // source not available
   darrensSentence1();
   iphvg5_sentence2();
-  yangSentence2();
+  //yangSentence2(); // source not available
   lmwv2c_first();
   vlb5b();
   bmwr84_second();
@@ -52,6 +52,7 @@ int main( void )
     skhhdc_sent2();
     bgnqp4_s1();
     amd2b7_sentence1();
+
     pld9bc_2();
     amd2b7_sentence2();
      pld9bc_1();
@@ -72,6 +73,7 @@ int main( void )
 	jpvc4_Sentence2();
 	amd2b7_sentence1();
 	pld9bc_2();
+	makgkf_Sen1();
 	amd2b7_sentence2();
 	pld9bc_1();
 	lmwv2c_first();
@@ -138,6 +140,7 @@ int main( void )
 	ska6f8Sentence();
 	ska6f8_Sentence2();
 	kpm8v5sent1();
+	makgkf_Sen2();
 	blhtkd_sentence1();
 	blhtkd_sentence2();
     kjmd54SentenceOne();
@@ -168,13 +171,16 @@ int main( void )
 	xcqrf_next();
 	djb8tc_2();
 	bgnqp4_s2();
+        wjbz82_first(); 
+        edwzpdsentence1();
+edwzpdsentence2(); 
         wjbz82_first();
 //	madelynsSentence1();
 //	madelynsSentence2();
   wjbz82_second();
   edw8n8_SENTENCE2();
-  //tehww4_s1();
-  //tehww4_s2();
+  tehww4_s1();
+  tehww4_s2();
       printf("\n\n");
 	scg558sentence1();
 	scg558sentence2();
@@ -188,7 +194,6 @@ int main( void )
 	cflzr3_1();
 	cflzr3_2();
 //	bjt2p3_print();
-<<<<<<< HEAD
 //	bjt2p3_next();
 
 	bjt2p3_print();
@@ -203,11 +208,17 @@ int main( void )
 	amd2b7_sentence3();
 	amd2b7_sentence4();
 	rlc5m8_sentence1();
-=======
+    ddbmf();
+    ddbmf_next();
+
+//	mhc34_s1();
+//	mhc34_s2();
+	rmixv8_first();
+	rmixv8_second();	
+
 //	bjt2p3_next();	
    // ifh2k6_1();
    // ifh2k6_2();
->>>>>>> ylt5b
 
     // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
