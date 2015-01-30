@@ -21,6 +21,7 @@ CC= gcc
 # -----------------------------------------------
 # CLEAN definition - git rid of compiled stuff
 CLEAN= rm -rf *.o story
+CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
 TEST= (./story > the_story.txt) ; cat the_story.txt
@@ -44,7 +45,8 @@ test:
 clean:
 	$(CLEAN)
 
-
+cleanwin:
+	$(CLEANWIN)
 # -----------------------------------------------
 # Now we bring in our dependencies.
 # 'all' needs 'story.o'. What does story need?
@@ -52,7 +54,7 @@ clean:
 # -----------------------------------------------
 
 
-story: story.o dpvx8.o aap455.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o drby96.o vlb5b.o mjir4d.o bjt2p3.o cflzr3.o sts44b.o scg558.o twn346.o
+story: story.o dpvx8.o aap455.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o rlc5m8.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o drby96.o vlb5b.o mjir4d.o bjt2p3.o cflzr3.o sts44b.o scg558.o twn346.o
 
 	$(CC) -o story $^
 #removed rcsc77.o and ifh2k6.o; .c files aren't present.
@@ -108,6 +110,8 @@ lmwv2c.o: sentences/lmwv2c.c
 kpm8v5.o: sentences/kpm8v5.c
 	$(CC) -c $<	
 pld9bc.o: sentences/pld9bc.c
+	$(CC) -c $<
+rlc5m8.o: sentences/rlc5m8.c
 	$(CC) -c $<
 cmm9r2.o: sentences/cmm9r2.c
 	$(CC) -c $<	
