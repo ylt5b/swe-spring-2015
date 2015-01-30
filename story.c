@@ -28,8 +28,10 @@ int main( void )
   // Don't forget to update the header file.
   bmwr84();
   printf(" ");
+  yangSentence1();
   darrensSentence1();
   iphvg5_sentence2();
+  yangSentence2();
   lmwv2c_first();
   bmwr84_second();
   darrensSentence2();
@@ -207,8 +209,8 @@ int main( void )
 	wjbz82_second(); 
 //	bjt2p3_print();
 //	bjt2p3_next();	
-    ifh2k6_1();
-    ifh2k6_2();
+   // ifh2k6_1();
+   // ifh2k6_2();
 
     
     // DO NOT ADD AFTER THIS COMMENT
