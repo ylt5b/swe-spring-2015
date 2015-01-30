@@ -206,8 +206,8 @@ edwzpdsentence2();
 	amd2b7_sentence3();
 	amd2b7_sentence4();
 	rlc5m8_sentence1();
-	mhc34_s1();
-	mhc34_s2();
+	//mhc34_s1();
+	//mhc34_s2();
 	
 //	bjt2p3_next();	
    // ifh2k6_1();
