@@ -83,6 +83,7 @@ int main( void )
 	jpvc4_Sentence2();
 	amd2b7_sentence1();
 	pld9bc_2();
+	makgkf_Sen1();
 	amd2b7_sentence2();
 	pld9bc_1();
 	lmwv2c_first();
@@ -153,6 +154,7 @@ int main( void )
 	ska6f8Sentence();
 	ska6f8_Sentence2();
 	kpm8v5sent1();
+	makgkf_Sen2();
 	blhtkd_sentence1();
 	blhtkd_sentence2();
 >>>>>>> dse2pd

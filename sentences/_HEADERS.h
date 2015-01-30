@@ -87,7 +87,8 @@ void bgnqp4_s2();
 //int rcsc77First();
 //int rcsc77Second();
 
-
+int makgkf_Sen1();
+int makgkf_Sen2();
 int cmm9r2_sentence1();
 int cmm9r2_sentence2();
 int masyv6FirstSentence();
