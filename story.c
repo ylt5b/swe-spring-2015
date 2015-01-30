@@ -149,6 +149,7 @@ int main( void )
     xltz6_2();
 	aap455_Sentence1();
 	aap455_Sentence2();
+	rlc5m8_sentence2();
    drby96firstsentence();
    kpm8v5sent2();
 	baotm4_sentence1();
@@ -198,7 +199,7 @@ int main( void )
 	twn346_1();
 	amd2b7_sentence3();
 	amd2b7_sentence4();
-
+	rlc5m8_sentence1();
 
     // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
