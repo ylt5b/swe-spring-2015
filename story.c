@@ -14,8 +14,10 @@ int main( void )
   // Don't forget to update the header file.
   bmwr84();
   printf(" ");
+  yangSentence1();
   darrensSentence1();
   iphvg5_sentence2();
+  yangSentence2();
   lmwv2c_first();
   vlb5b();
   bmwr84_second();
@@ -186,6 +188,7 @@ int main( void )
 	cflzr3_1();
 	cflzr3_2();
 //	bjt2p3_print();
+<<<<<<< HEAD
 //	bjt2p3_next();
 
 	bjt2p3_print();
@@ -200,6 +203,11 @@ int main( void )
 	amd2b7_sentence3();
 	amd2b7_sentence4();
 	rlc5m8_sentence1();
+=======
+//	bjt2p3_next();	
+   // ifh2k6_1();
+   // ifh2k6_2();
+>>>>>>> ylt5b
 
     // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
