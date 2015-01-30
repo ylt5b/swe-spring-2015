@@ -135,4 +135,6 @@ int ddbmf_next();
 //int mhc34_s2();
 int rmixv8_first();
 int rmixv8_second();
+int dmz6fd_sentence1();
+int dmz6fd_sentence2();
 
