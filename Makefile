@@ -205,6 +205,8 @@ ddbmf.o: sentences/ddbmf.c
 	$(CC) -c $<
 wldzc.o: sentences/wldzc.c
 	$(CC) -c $<
+dmz6fd.o: sentences/dmz6fd.c
+	$(CC) -c $<
 
 
 
