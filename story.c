@@ -158,6 +158,7 @@ int main( void )
 	rlc5m8_sentence2();
    drby96firstsentence();
    kpm8v5sent2();
+	wfbc77Sentence1();
 	baotm4_sentence1();
 	baotm4_sentence2();
 	apcvzb_second();
@@ -171,6 +172,7 @@ int main( void )
 	xcqrf();
 	xcqrf_next();
 	djb8tc_2();
+	wfbc77Sentence2();
 	bgnqp4_s2();
         wjbz82_first(); 
         edwzpdsentence1();

@@ -10,6 +10,8 @@ void sts44b_s1();
 void sts44b_s2();
 int rlc5m8_sentence1();
 int rlc5m8_sentence2();
+int wfbc77Sentence1();
+int wfbc77Sentence2();
 int twn346_1();
 int twn346_2();
 int amd2b7_sentence3();
