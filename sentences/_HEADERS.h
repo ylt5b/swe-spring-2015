@@ -99,6 +99,12 @@ int skhhdc_sent1();
 int skhhdc_sent2();
 //int rcsc77First();	//missing file
 //int rcsc77Second();
+<<<<<<< HEAD
+=======
+
+int makgkf_Sen1();
+int makgkf_Sen2();
+>>>>>>> makgkf
 int cmm9r2_sentence1();
 int cmm9r2_sentence2();
 int masyv6FirstSentence();

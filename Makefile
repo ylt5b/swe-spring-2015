@@ -53,8 +53,21 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
+<<<<<<< HEAD
 #story: story.o ylt5b.o dpvx8.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o #bjt2p3.o
 #	$(CC) -o story $^
+=======
+<<<<<<< HEAD
+story: story.o wjbz82.o dpvx8.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o 
+dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o 
+jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o 
+ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o 
+ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o makgkf.o 
+=======
+story: story.o dpvx8.o ska6f8.o wjbz82.o bpbkt7.o apcvzb.o cmm9r2.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o
+>>>>>>> dse2pd
+	$(CC) -o story $^
+>>>>>>> makgkf
 
 story: story.o dpvx8.o aap455.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o rlc5m8.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o drby96.o vlb5b.o mjir4d.o bjt2p3.o cflzr3.o sts44b.o scg558.o twn346.o edwzpd.o tehww4.o rmixv8.o 
 	$(CC) -o story $^
@@ -158,8 +171,14 @@ bgnqp4.o: sentences/bgnqp4.c
 	$(CC) -c $<
 masyv6.o: sentences/masyv6.c
 	$(CC) -c $<
+<<<<<<< HEAD
 
 #ifh2k6.o: sentences/ifh2k6.c	//missing file
+=======
+makgkf.0: sentences/makgkf.c
+	$(CC) -c $<
+<<<<<<< HEAD
+>>>>>>> makgkf
 #rcsc77.o: sentences/rcsc77.c
 #	$(CC) -c $<
 #rcsc77.o: sentences/rcsc77.c	//missing file
