@@ -8,6 +8,8 @@ void bjt2p3_next(void);
 // DECLARE YOUR symbols here, implement them in a standalone C file
 void sts44b_s1();
 void sts44b_s2();
+int twn346_1();
+int twn346_2();
 int amd2b7_sentence3();
 int amd2b7_sentence4();
 int apcvzb_first();

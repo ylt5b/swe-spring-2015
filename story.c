@@ -155,6 +155,7 @@ int main( void )
 	baotm4_sentence2();
 	apcvzb_second();
 	ps793_sentence1();
+	twn346_2();
 	ps793_sentence2();
 	rwg58();
 	rwg58_next();
@@ -194,6 +195,7 @@ int main( void )
 
 	sts44b_s1();
 	sts44b_s2();
+	twn346_1();
 	amd2b7_sentence3();
 	amd2b7_sentence4();
 
