@@ -99,6 +99,12 @@ int skhhdc_sent1();
 int skhhdc_sent2();
 //int rcsc77First();	//missing file
 //int rcsc77Second();
+<<<<<<< HEAD
+=======
+
+int makgkf_Sen1();
+int makgkf_Sen2();
+>>>>>>> makgkf
 int cmm9r2_sentence1();
 int cmm9r2_sentence2();
 int masyv6FirstSentence();
@@ -121,7 +127,14 @@ int edwzpdsentence1();
 int edwzpdsentence2();
 void scg558sentence1();
 void scg558sentence2();
+<<<<<<< HEAD
 int mhc34_s1();
 int mhc34_s2();
 int ddbmf();
 int ddbmf_next();
+=======
+//int mhc34_s1();
+//int mhc34_s2();
+int rmixv8_first();
+int rmixv8_second();
+>>>>>>> 076991997d319df10dbe6d5c74cb895aa0a179dc
